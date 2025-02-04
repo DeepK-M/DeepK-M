@@ -39,5 +39,5 @@ LinkedIn: (https://www.linkedin.com/in/deep-maheshwari-19629024b/)
 GitHub: DeepK-M
 
 ⚡ Fun Fact :
-I love exploring new AI models and optimizing them for real-world applications! When I'm not coding, you'll find me learning about nutrition and fitness to achieve my weight loss goals.
+I love exploring new AI models and optimizing them for real-world applications!
 <!--- DeepK-M/DeepK-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
