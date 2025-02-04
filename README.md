@@ -1,14 +1,43 @@
-# 👋 Hi, I’m Deep Maheshwari
+# 👋 Hi, I’m DeepK-M
 
-👀 I’m interested in AI, Data Science, and Software Development.
+🚀 About Me
 
-🌱 I’m currently learning advanced Machine Learning, Computer Vision, and preparing for the GATE exam.
+I am a third-year AI & Data Science (AI&DS) engineering student, currently in my 6th semester (2025). I am passionate about Artificial Intelligence, Machine Learning, Data Science, and Web Development. My goal is to leverage AI for real-world problem-solving and innovation.
 
-💞️ I’m looking to collaborate on AI-based projects, data-driven applications, and open-source contributions.
+📚 Currently Studying
 
-📫 How to reach me: [Your Email or LinkedIn Profile]
+Artificial Intelligence & Machine Learning,
+Multivariate Analysis (MVA),
+Image Processing,
+Data Analysis & Visualization.
 
-😄 Pronouns: He/Him
+🎯 Current Goals
 
-⚡ Fun fact: I love exploring new AI models and optimizing them for real-world applications!
+Preparing for the GATE Exam (February 2026)
+Building projects in Computer Vision, NLP, and Data Science
+Improving my coding skills in Python, SQL and ML Algorithm's.
+Balancing college studies with health & fitness.
+
+👀 Interests
+
+Machine Learning & Deep Learning
+AI-based Web Applications
+Data Analysis & Visualization
+Open-Source Contribution
+Hackathons & Research
+
+💞️ Looking to Collaborate On
+
+AI & ML projects,
+Open-source contributions,
+Research in AI & Data Science.
+
+📫 How to Reach Me
+
+LinkedIn: (https://www.linkedin.com/in/deep-maheshwari-19629024b/)
+
+GitHub: DeepK-M
+
+⚡ Fun Fact :
+I love exploring new AI models and optimizing them for real-world applications! When I'm not coding, you'll find me learning about nutrition and fitness to achieve my weight loss goals.
 <!--- DeepK-M/DeepK-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
